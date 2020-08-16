@@ -8,6 +8,7 @@ Will combine all excel files in a given folder and merge them based on the tab n
 # Example 
 cd to the folder with all edds in it and run the script in the folder. 
 > cd Working Folder
+
 > python stack_edds.py
 
 a file named Combined_EDDs.xlsx will appear in the folder. 
